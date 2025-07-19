@@ -102,3 +102,7 @@ I’m currently building my skills to become a **junior data analyst**. I have a
 - 🐱 GitHub: https://github.com/Wikiikbal31
 
 Thanks for checking out my project!
+---
+
+## 🔖 Tags / Topics
+#SQL #MySQL #DataCleaning #EDA #Layoffs #DataAnalysis #PortfolioProject #AlexTheAnalyst #JuniorDataAnalyst #SelfLearning
